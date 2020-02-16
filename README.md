@@ -10,4 +10,4 @@ Run `node index.js auth`, visit the link it gives you, and enter the code you re
 
 Then run `node index.js` and wait.
 
-Remove `cache.json`
+`cache.json` contains cached responses from the Spotify API of your liked songs and artist albums. Remove the file if you want the script to refetch them.
